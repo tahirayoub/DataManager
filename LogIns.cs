@@ -16,14 +16,15 @@ namespace DataManager
     class LogIns:IDisposable 
     {
 
-
-
-
-        //SqlConnection cn = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\" + Environment.UserName + "\\documents\\visual studio 2012\\Projects\\Chicken\\Chicken\\DB_Chicken.mdf;Integrated Security=True");
-       
-       
       SqlConnection cn = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\" + Environment.UserName + "\\Documents\\Visual Studio 2013\\Projects\\DataManager\\DataManager\\DM.mdf;Integrated Security=True");
-       
+
+
+       // SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["DMConnectionString"].ToString());
+     
+
+   
+        
+        
         public string UName, Pass = "";
        
 

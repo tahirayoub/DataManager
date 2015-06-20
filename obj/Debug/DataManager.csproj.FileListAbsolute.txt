@@ -35,14 +35,10 @@ C:\Users\t_ayo\Desktop\DataManager\DataManager\obj\Debug\DataManager.DriverInfor
 C:\Users\Tahir\Desktop\DataManager\DataManager\bin\Debug\DataManager.exe.config
 C:\Users\Tahir\Desktop\DataManager\DataManager\obj\Debug\DataManager.exe
 C:\Users\Tahir\Desktop\DataManager\DataManager\obj\Debug\DataManager.pdb
-C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe.config
-C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.exe
-C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DM.mdf
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DM_log.ldf
-C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe
-C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.pdb
-C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.exe.config
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.DriverInformation.FormAddDriverInformation.resources
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.DriverInformation.FormSelectUpdateDriverInformation.resources
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.DriverInformation.FormSelectViewDriverInformation.resources
@@ -57,3 +53,8 @@ C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.TruckInformation.FormUpdateVehicleInformation.resources
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.TruckInformation.FormViewVehicleInformation.resources
 C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.csproj.GenerateResource.Cache
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.exe
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\DataManager\DataManager\obj\Debug\DataManager.SendMail.resources

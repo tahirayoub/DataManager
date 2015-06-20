@@ -85,5 +85,12 @@ namespace DataManager
             DriverInformation.FormSelectViewDriverInformation m = new DriverInformation.FormSelectViewDriverInformation();
             m.Show();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            SendMail m = new SendMail();
+            m.Show();
+        }
     }
 }
